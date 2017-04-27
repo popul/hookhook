@@ -17,3 +17,7 @@ It works with a file called `.hookhook.yml`. Here is an example
 ```
 
 It will find every folder identified by condition and try to execute corresponding command
+
+## Contributing
+
+Use [commitizen](https://github.com/commitizen/cz-cli) to help you to format commit messages.
