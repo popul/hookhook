@@ -1,0 +1,24 @@
+{
+  "name": "hookhook",
+  "version": "1.0.0",
+  "description": "Git hooks for multi projects repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popul/hookhook.git"
+  },
+  "keywords": [
+    "git",
+    "hook",
+    "npm"
+  ],
+  "author": "Paul Musso<paul@musso.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/popul/hookhook/issues"
+  },
+  "homepage": "https://github.com/popul/hookhook#readme"
+}
